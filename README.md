@@ -24,7 +24,7 @@ On Arch, install spacy from AUR (yay python-spacy), then run
 
 # Special thanks
 
-Special thanks to my friend and fellow programmer, @grishatop1, for testing this program. I have helped develop some of his programs, and tested others. I am thankful he was able to test PyLSM for me. Go check out his work!
+Special thanks to my friend and fellow programmer, [@grishatop1](https://github.com/grishatop1), for testing this program. I have helped develop some of his programs, and tested others. I am thankful he was able to test PyLSM for me. Go check out his work!
 
 --------
 
@@ -54,4 +54,4 @@ Special thanks to my friend and fellow programmer, @grishatop1, for testing this
 
 # Посебна захвалност
 
-Посебно хвала мом пријатељу и колеги програмеру, @grishatop1, што је тестирао овај програм. Помогао сам му у развоју неких од његових програма, а друге сам тестирао. Захвалан сам што је он могао да издвоји времена и тестира ПајПЈС. Погледајте његов рад!
+Посебно хвала мом пријатељу и колеги програмеру, [@grishatop1](https://github.com/grishatop1), што је тестирао овај програм. Помогао сам му у развоју неких од његових програма, а друге сам тестирао. Захвалан сам што је он могао да издвоји времена и тестира ПајПЈС. Погледајте његов рад!
