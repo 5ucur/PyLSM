@@ -22,6 +22,10 @@ and if need be (especially if the validation command does not report en_core_web
 On Arch, install spacy from AUR (yay python-spacy), then run  
 `python -m spacy download en_core_web_sm`
 
+# Special thanks
+
+Special thanks to my friend and fellow programmer, @grishatop1, for testing this program. I have helped develop some of his programs, and tested others. I am thankful he was able to test PyLSM for me. Go check out his work!
+
 --------
 
 # ПајПЈС
@@ -30,7 +34,7 @@ On Arch, install spacy from AUR (yay python-spacy), then run
 
 # Како овај програм ради
 
-ПајПЈС је заснован на истраживању које су врштили Ајерланд, Иствик, Слечер и Сизорс 2011. године. Програм прво направи списак свих врста ријечи у оба текста, преброји колико се пута појављује која врста ријечи, те одреди однос између тог броја и укупног броја ријечи. Затим се ти односи из оба текста успоређују.   
+ПајПЈС је заснован на истраживању које су вршили Ајерланд, Иствик, Слечер и Сизорс 2011. године. Програм прво направи списак свих врста ријечи у оба текста, преброји колико се пута појављује која врста ријечи, те одреди однос између тог броја и укупног броја ријечи. Затим се ти односи из оба текста успоређују.   
 
 # Зашто српска ћирилична верзија
 
@@ -47,3 +51,7 @@ On Arch, install spacy from AUR (yay python-spacy), then run
 
 На Арчу, инсталирајте spacy преко AUR-a (yay python-spacy), затим извршите команду  
 `python -m spacy download en_core_web_sm`
+
+# Посебна захвалност
+
+Посебно хвала мом пријатељу и колеги програмеру, @grishatop1, што је тестирао овај програм. Помогао сам му у развоју неких од његових програма, а друге сам тестирао. Захвалан сам што је он могао да издвоји времена и тестира ПајПЈС. Погледајте његов рад!
